@@ -2,29 +2,10 @@ import random
 from time import sleep
 		
 # creation de la liste de personnes
-liste = ["diarra kane",
-	"guihini",
-	"aboubakrine",
-	"jonas hounsou",
-	"valerie",
-	"oury diallo",
-	"aboubacar thiam",
-	"bassirou ngom",
-	"marelha sane",
-	"ousmane sine",
-	"famara",
-	"kama",
-	"emmanuel",
-	"papa moussa",
-	"khadim lo",
-	"ibrahima ndoye",
-	"assane seck",
-	"fallou ngom",
-	"philippe",
-	"oumy fall",
-	"kany mane",
-	"awa diagne",
-	"modou ndiaye"]
+liste = ["John Doe 1",
+	"John Doe 2",
+	"John Doe 3",
+	"John Doe 4",]
 
 nbpers =-1
 while nbpers < 0 or nbpers > len(liste):
