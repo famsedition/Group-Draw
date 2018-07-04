@@ -1,2 +1,2 @@
 # Group-Draw
-groups formation with the possibility to selected group chefs 
+groups formation with the possibility to select group chefs 
