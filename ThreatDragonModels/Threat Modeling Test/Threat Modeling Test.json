@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat Modeling Test",
+    "owner": "fbodian",
+    "description": "Description"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "fbodian"
+  }
+}
